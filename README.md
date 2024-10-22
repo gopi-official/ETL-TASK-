@@ -12,8 +12,13 @@ This project is dedicated to extracting information from unstructured text files
 
 Techniques for parsing and extracting relevant information from free-form text.
 Efficient data upload mechanisms to MongoDB for scalable storage and retrieval.
-Features:
+
+
+#### Features: ####
 
 Comprehensive scripts for data extraction and database upload
 Detailed documentation for setup, configuration, and usage
 Example datasets and configurations for quick implementation
+### Usage: ###
+> Each project includes step-by-step instructions for setup and execution, ensuring a smooth user experience and rapid deployment.
+
